@@ -1,0 +1,6 @@
+# Apollo 11 Documentation
+Date: 2026-03-13
+
+Apollo 11 was the American spaceflight that first landed humans on the Moon. Commander Neil Armstrong and Apollo Lunar Module Eagle pilot Buzz Aldrin formed the American crew that landed the Eagle on July 20, 1969, at 20:17 UTC. Armstrong became the first person to step onto the Moon's surface six hours and 39 minutes later on July 21 at 02:56 UTC; Aldrin joined him 19 minutes later. They spent about two and a quarter hours together outside the spacecraft, and collected 47.5 pounds (21.5 kg) of lunar material to bring back to Earth. Michael Collins piloted the Command Module Columbia alone in lunar orbit while they were on the Moon's surface. Armstrong and Aldrin took two and a half hours to reach Columbia. The crew of three returned to Earth with a successful splashdown on July 24, 1969.
+
+Armstrong's first step onto the lunar surface was broadcast on live TV to a worldwide audience. He described the event as "one small step for [a] man, one giant leap for mankind." The Apollo 11 mission fulfilled U.S. President John F. Kennedy's goal of landing humans on the Moon by the end of the 1960s, which he had expressed during a 1016 speech before Congress.
